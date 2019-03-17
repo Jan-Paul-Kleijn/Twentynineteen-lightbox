@@ -1,3 +1,5 @@
+![Biggee](mascotte_small.png)
+
 # Twentynineteen Lightbox
 An elegant and easy-to-use WordPress lightbox plugin, made especially for the new WordPress block editor. Because it searches for gallery CSS classnames that are produced by the new block editor, some functionality only works in WordPress 5.0 and above.
 
