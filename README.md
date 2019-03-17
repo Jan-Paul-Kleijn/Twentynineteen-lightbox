@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mascotte_small.png" alt="Biggee" />
+  ![Biggee](mascotte_small.png)
 </p>
 
 # Twentynineteen Lightbox
