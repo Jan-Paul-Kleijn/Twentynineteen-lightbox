@@ -1,5 +1,5 @@
 <p align="center">
-  ![Biggee](mascotte_small.png)
+  <a href="https://www.biggee.nl"><img src="mascotte_small.png" alt="Biggee" /></a>
 </p>
 
 # Twentynineteen Lightbox
