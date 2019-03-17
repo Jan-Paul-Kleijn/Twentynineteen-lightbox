@@ -1,0 +1,71 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: twentynineteen-lightbox\n"
+"POT-Creation-Date: 2019-03-14 12:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jan-Paul Kleijn <jan-paul.kleijn@biggee.nl>\n"
+"Language-Team: Biggee <email@biggee.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/admin.php:13
+msgid "Add lightbox to the Twenty Nineteen WordPress theme"
+msgstr ""
+
+#: ../includes/admin.php:20
+msgid "CSS Classname"
+msgstr ""
+
+#: ../includes/admin.php:33
+msgid "Gallery type"
+msgstr ""
+
+#: ../includes/admin.php:49
+msgid "Choose where you want the lightbox to appear"
+msgstr ""
+
+#: ../includes/admin.php:60
+msgid "Align left"
+msgstr ""
+
+#: ../includes/admin.php:66
+msgid "Align right"
+msgstr ""
+
+#: ../includes/admin.php:72
+msgid "Align center"
+msgstr ""
+
+#: ../includes/admin.php:78
+msgid "Wide width"
+msgstr ""
+
+#: ../includes/admin.php:84
+msgid "Full width"
+msgstr ""
+
+#: ../includes/admin.php:86
+msgid "Add lightbox functionality to each image in the galleries on your website. Here you can choose which type of gallery should be given this functionality."
+msgstr ""
+
+#: ../includes/admin.php:101
+msgid "Add lightbox functionality to images with a certain CSS class. Here you can define which CSS class should be given this functionality. The default CSS classname is 'lightboxed'."
+msgstr ""
+
+#: ../includes/admin.php:138
+msgid "Settings Saved"
+msgstr ""
+
+#: ../includes/admin.php:155
+msgid "Save Settings"
+msgstr ""

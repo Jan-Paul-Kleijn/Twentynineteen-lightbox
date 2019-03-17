@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: twentynineteen-lightbox\n"
+"POT-Creation-Date: 2019-03-14 12:49+0100\n"
+"PO-Revision-Date: \n"
+"Language-Team: Biggee <email@biggee.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/admin.php:13
+msgid "Add lightbox to the Twenty Nineteen WordPress theme"
+msgstr ""
+"Lightbox functionaliteit toevoegen aan het Twenty Nineteen WordPress thema"
+
+#: ../includes/admin.php:20
+msgid "CSS Classname"
+msgstr "Naam van de CSS class"
+
+#: ../includes/admin.php:33
+msgid "Gallery type"
+msgstr "Galerie type"
+
+#: ../includes/admin.php:49
+msgid "Choose where you want the lightbox to appear"
+msgstr "Bepaal waar je de lightbox functionaliteit geïmplementeerd wilt zien."
+
+#: ../includes/admin.php:60
+msgid "Align left"
+msgstr "Links uitgelijnd (links uitlijnen)"
+
+#: ../includes/admin.php:66
+msgid "Align right"
+msgstr "Rechts uitgelijnd (rechts uitlijnen)"
+
+#: ../includes/admin.php:72
+msgid "Align center"
+msgstr "Gecentreerd (centreren)"
+
+#: ../includes/admin.php:78
+msgid "Wide width"
+msgstr "Vergrote breedte (grote breedte)"
+
+#: ../includes/admin.php:84
+msgid "Full width"
+msgstr "Volledig gemaakte breedte (volledige breedte)"
+
+#: ../includes/admin.php:86
+msgid ""
+"Add lightbox functionality to each image in the galleries on your website. "
+"Here you can choose which type of gallery should be given this functionality."
+msgstr ""
+"Lightbox functionaliteit toevoegen aan de afbeeldingen in alle galerieën op "
+"de website. Je kunt hier kiezen voor welk type galerie de afbeeldingen een "
+"lightbox functionaliteit krijgen."
+
+#: ../includes/admin.php:101
+msgid ""
+"Add lightbox functionality to images with a certain CSS class. Here you can "
+"define which CSS class should be given this functionality. The default CSS "
+"classname is 'lightboxed'."
+msgstr ""
+"Lightbox functionaliteit toevoegen aan afbeeldingen met een bepaalde CSS "
+"class. Je kunt hier aangeven welke naam je wilt geven aan de CSS class die "
+"deze functionaliteit activeert. De standaardnaam voor de CSS class is "
+"ingesteld op 'lightboxed'."
+
+#: ../includes/admin.php:138
+msgid "Settings Saved"
+msgstr "De instellingen zijn opgeslagen"
+
+#: ../includes/admin.php:155
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
