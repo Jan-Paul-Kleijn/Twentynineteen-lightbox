@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.biggee.nl"><img src="mascotte_small.png" alt="Biggee" /></a>
+  <a href="https://www.biggee.nl"><img src="mascotte_small.png" alt="Biggee Webdesign" /></a>
 </p>
 
 # Twentynineteen Lightbox
@@ -13,7 +13,7 @@ An elegant and easy-to-use WordPress lightbox plugin, made especially for the ne
 ## Installation
 Please follow the instructions below to install the **Twentynineteen Lightbox** plugin.
 
-1. Download the [Twentynineteen Lightbox plugin ZIP file](https://github.com/JanPaulKleijn/biggee-twentynineteen-lightbox/archive/master.zip).
+1. Download the [Twentynineteen Lightbox plugin ZIP file](https://github.com/biggee-webdesign/biggee-twentynineteen-lightbox/archive/master.zip).
 2. Log in to your WordPress website admin panel.
 3. Go to **Admin panel** > **Plugins** > **Add New**.
 4. In the top-left corner, next to the page title, click on **Upload Plugin**.
